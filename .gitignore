@@ -1,0 +1,9 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+.DS_Store
+
+# File bệnh nhân, không đưa lên git
+*.xlsx
+!template/mau-ksk.xlsx
